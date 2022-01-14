@@ -18,7 +18,7 @@ such as:
 The system is extensible as with the generic clip design you can make
 your own models to clip into the board. A clip looks like this:
 
-![MakerGrid Clip](res/clip_10cmm.png)
+![MakerGrid Clip](res/clip_10mm.png)
 
 It's not rotateable, but it fits well into the holes and provides good
 stability.
