@@ -30,3 +30,9 @@ following settings for printing:
 
 - 0.4mm nozzle
 - 0.3mm layer height
+
+## License
+
+3D MakerGrid is licensed under the
+Creative Commons - Attribution - Share Alike
+license.
