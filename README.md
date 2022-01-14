@@ -39,6 +39,15 @@ I was inspired by:
     if you just plug in a single one.
   - https://www.thingiverse.com/thing:10541
 
+## Maker Grid Types:
+
+- Regular Full:
+![MakerGrid 12x12cm base plate with 2x2cm clip grid](res/maker_grid_2cm.png)
+- Type B:
+![MakerGrid 12x12cm base plate type B](res/maker_grid_2cm_type_b.png)
+- Type C:
+![MakerGrid 12x12cm base plate type B](res/maker_grid_2cm_type_c.png)
+
 ## Recommended Printer Settings
 
 Basically you can print it in any way you like, but I recommend
