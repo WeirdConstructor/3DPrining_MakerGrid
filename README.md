@@ -52,8 +52,6 @@ I was inspired by:
 
 ## Maker Grid Types:
 
-### 5 Hole Sides (Regular 1)
-
 - Regular Full:
 ![MakerGrid 12x12cm base plate with 2x2cm clip grid](res/maker_grid_2cm.png)
 - Type B:
@@ -62,17 +60,6 @@ I was inspired by:
 ![MakerGrid 12x12cm base plate type C](res/maker_grid_2cm_type_c.png)
 - Type D:
 ![MakerGrid 12x12cm base plate type D](res/maker_grid_2cm_type_d.png)
-
-### 3 Hole Sides (Regular 1)
-
-- Regular Full:
-![MakerGrid 12x12cm base plate with 2x2cm clip grid regular 2](res/maker_grid_2cm_r2.png)
-- Type B:
-![MakerGrid 12x12cm base plate type B2](res/maker_grid_2cm_type_b2.png)
-- Type C:
-![MakerGrid 12x12cm base plate type C2](res/maker_grid_2cm_type_c2.png)
-- Type D:
-![MakerGrid 12x12cm base plate type D2](res/maker_grid_2cm_type_d2.png)
 
 ## Recommended Printer Settings
 
