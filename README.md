@@ -20,7 +20,13 @@ your own models to clip into the board. A clip looks like this:
 
 ![MakerGrid Clip](res/clip_10mm.png)
 
-It's not rotateable, which is a feature for me and provides good stability.
+The clips hold well in the holes, you will need either strong fingers or
+pliers to pull them out again. The clip arms will be printed with 3 0.4mm thick
+walls, which provide enough flexibility while also holding tight.
+The clips also provide a rotational stability.
+
+The advantage of this system that connects holes is also,
+that if you damage a clip, you can reprint them quickly.
 
 ## Prior Art
 
