@@ -28,6 +28,11 @@ The clips also provide a rotational stability.
 The advantage of this system that connects holes is also,
 that if you damage a clip, you can reprint them quickly.
 
+There is a whole palette for holdes/clip holders to choose from in the `clip.blend`
+file:
+
+![MakerGrid Clip Palette](res/clip_10mm_models.png)
+
 ## Prior Art
 
 I was inspired by:
