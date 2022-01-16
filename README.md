@@ -61,6 +61,13 @@ I was inspired by:
 - Type D:
 ![MakerGrid 12x12cm base plate type D](res/maker_grid_2cm_type_d.png)
 
+## Utilities
+
+- Build Cubes in sizes 1x1, 3x1, 7x1, 11x1, 15x1 offer a way to extend
+  the maker grid into 3 dimensions.
+
+![MakerGrid Build Cubes](res/build_cubes.png)
+
 ## Recommended Printer Settings
 
 Basically you can print it in any way you like, but I recommend
