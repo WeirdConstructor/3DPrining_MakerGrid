@@ -1,13 +1,16 @@
 # MakerGrid - A 3D Printed grid system for makers
 
 This system allows you to temporarily setup electronics or other
-devices on an extensible modular base platform.
+devices on an extensible modular base platform:
 
-![MakerGrid 12x12cm base plate with 2x2cm clip grid](res/maker_grid_2cm.png)
+![MakerGrid Demonstration Prototype](res/makergrid_demo_1.jpg)
 
-The primary base platform
-is 12x12cm big, 1cm high and has a 2x2cm grid for clipping in all sorts of stuff,
-such as:
+The base is this 12x12cm big and 1cm high base platform:
+
+![MakerGrid 12x12cm base platform with 2x2cm clip grid](res/maker_grid_2cm.png)
+
+The primary base platform is 12x12cm big, 1cm high and has a 2x2cm grid for
+clipping in all sorts of stuff, such as:
 
 - Bread boards
 - Electronics modules such as:
@@ -53,13 +56,13 @@ I was inspired by:
 ## Maker Grid Types:
 
 - Regular Full:
-![MakerGrid 12x12cm base plate with 2x2cm clip grid](res/maker_grid_2cm.png)
+![MakerGrid 12x12cm base platform with 2x2cm clip grid](res/maker_grid_2cm.png)
 - Type B:
-![MakerGrid 12x12cm base plate type B](res/maker_grid_2cm_type_b.png)
+![MakerGrid 12x12cm base platform type B](res/maker_grid_2cm_type_b.png)
 - Type C:
-![MakerGrid 12x12cm base plate type C](res/maker_grid_2cm_type_c.png)
+![MakerGrid 12x12cm base platform type C](res/maker_grid_2cm_type_c.png)
 - Type D:
-![MakerGrid 12x12cm base plate type D](res/maker_grid_2cm_type_d.png)
+![MakerGrid 12x12cm base platform type D](res/maker_grid_2cm_type_d.png)
 
 ## Utilities
 
