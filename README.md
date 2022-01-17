@@ -78,6 +78,7 @@ following settings for printing:
 
 - 0.4mm nozzle
 - 0.3mm layer height
+- For the clips themself I recommend a wall thickness of 1.6mm: ![Sliced Maker Grid Clip](res/sliced_clip.png)
 
 The rest you can vary to your likings. I printed it in PLA. Not tried
 it in PETG or ABS/ASA yet, but should be even better for the clips (due to
