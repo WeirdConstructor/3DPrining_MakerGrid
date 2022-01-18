@@ -48,7 +48,7 @@ I was inspired by:
   - https://www.thingiverse.com/thing:4965875
 - Pin Connectors V2
   - I like the simplicity of this design, but these round connectors
-    would make the test setups too wobbly if not connected by at least two
+    would make the MakerGrid too wobbly if not connected by at least two
     pins. My grid clips are rectangular and already provide some stability
     if you just plug in a single one.
   - https://www.thingiverse.com/thing:10541
@@ -68,6 +68,9 @@ I was inspired by:
 
 - Build Cubes in sizes 1x1, 3x1, 7x1, 11x1, 15x1 offer a way to extend
   the maker grid into 3 dimensions.
+    - Also with a slim variant that has the "\_s" as postfix.
+    - And a base extension variant, that can be plugged to the side
+      of the MakerGrid bases with an "\_x" postfix.
 
 ![MakerGrid Build Cubes](res/build_cubes.png)
 
@@ -79,6 +82,7 @@ following settings for printing:
 - 0.4mm nozzle
 - 0.3mm layer height
 - For the clips themself I recommend a wall thickness of 1.6mm: ![Sliced Maker Grid Clip](res/sliced_clip.png)
+For the other parts even 0.8mm works fine.
 
 The rest you can vary to your likings. I printed it in PLA. Not tried
 it in PETG or ABS/ASA yet, but should be even better for the clips (due to
