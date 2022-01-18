@@ -6,6 +6,8 @@ A collection of assorted utilities for the MakerGrid:
 
 ![Cable Guide Type A](../../res/cable_guide_type_a.png)
 
+![Angle Joints](../../angle_joint.png)
+
 ## License
 
 3D MakerGrid by Weird Constructor is licensed under the
