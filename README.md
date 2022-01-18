@@ -78,6 +78,12 @@ I was inspired by:
 
 ![Raspberry Pi Holder](res/raspberry_pi_plate_holder.png)
 
+- Raspberry Pico Holder
+
+![Raspberry Pi Pico Holder](res/raspberry_pico_plate_holder.png)
+
+- **Make sure to checkout the subdirectory** `blender` **for more!**
+
 ## Recommended Printer Settings
 
 Basically you can print it in any way you like, but I recommend
@@ -94,6 +100,5 @@ better flexibility).
 
 ## License
 
-3D MakerGrid is licensed under the
-Creative Commons - Attribution - Share Alike
-license.
+3D MakerGrid by Weird Constructor is licensed under the
+Creative Commons - Attribution - Share Alike license.
