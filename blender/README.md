@@ -5,6 +5,8 @@ STL files that you can find here. Here is an STL index:
 
 ## Basic MakerGrid Parts
 
+![MakerGrid Clip](../res/clip.png)
+
 ![MakerGrid Overview](../res/maker_grid_overview.png)
 
 ## Utilities
