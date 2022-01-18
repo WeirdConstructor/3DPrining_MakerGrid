@@ -74,6 +74,10 @@ I was inspired by:
 
 ![MakerGrid Build Cubes](res/build_cubes.png)
 
+- Raspberry Pi 2/3/4 B Holder
+
+![Raspberry Pi Holder](res/raspberry_pi_plate_holder.png)
+
 ## Recommended Printer Settings
 
 Basically you can print it in any way you like, but I recommend
