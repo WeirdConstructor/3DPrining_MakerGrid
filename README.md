@@ -3,7 +3,7 @@
 This system allows you to temporarily setup electronics or other
 devices on an extensible modular base platform:
 
-![MakerGrid Demonstration Prototype](res/makergrid_demo_1.jpg)
+![MakerGrid Demonstration Prototype](res/makergrid_demo_2.jpg)
 
 The base is this 12x12cm big and 1cm high base platform:
 
