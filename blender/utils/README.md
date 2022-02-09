@@ -10,6 +10,8 @@ A collection of assorted utilities for the MakerGrid:
 
 ![Angle Joints](../../res/angle_joint.png)
 
+![M4 Dovetail Mounts](../../res/m4_dovetail_mounts.png)
+
 ## License
 
 3D MakerGrid by Weird Constructor is licensed under the

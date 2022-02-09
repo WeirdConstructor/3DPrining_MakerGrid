@@ -15,6 +15,7 @@ You can find more stuff in the subdirectories:
 
 - `cases` assorted cases and holders for electronics.
 - `utils` all kinds of useful stuff to plug onto your MakerGrid.
+- `devices` specific devices made for the MakerGrid.
 
 ## Miscellaneous 
 
