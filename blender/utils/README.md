@@ -12,6 +12,8 @@ A collection of assorted utilities for the MakerGrid:
 
 ![M4 Dovetail Mounts](../../res/m4_dovetail_mounts.png)
 
+![Fan Holders](../../res/fan_holders.png)
+
 # Aluminum Extrusion Utils
 
 20x20 Aluminum Extrusion T-Slot clips (attention, these are under GPLv3):
