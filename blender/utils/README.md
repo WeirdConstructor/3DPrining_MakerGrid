@@ -21,7 +21,7 @@ A collection of assorted utilities for the MakerGrid:
 - [t_slot_profile_util-t_slot_20x20_nut_6_mkg_clip_loose_fit.stl](t_slot_profile_util-t_slot_20x20_nut_6_mkg_clip_loose_fit.stl)
 - [t_slot_profile_util-t_slot_20x20_nut_6_mkg_clip_tight_fit.stl](t_slot_profile_util-t_slot_20x20_nut_6_mkg_clip_tight_fit.stl)
 
-![T-Slot MakerGrid Clips](t_slot_20x20_nut6_mkg_clip.png)
+![T-Slot MakerGrid Clips](../../res/t_slot_20x20_nut6_mkg_clip.png)
 
 The T-Slot side has been derived from: https://www.printables.com/model/54744-2020-cable-clips-t-slot-v-slot
 
