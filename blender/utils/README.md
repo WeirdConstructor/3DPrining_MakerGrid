@@ -14,7 +14,7 @@ A collection of assorted utilities for the MakerGrid:
 
 # Aluminum Extrusion Utils
 
-20x20 Aluminum Extrusion T-Slot clips:
+20x20 Aluminum Extrusion T-Slot clips (attention, these are under GPLv3):
 
 - [t_slot_profile_util-t_slot_20x20_nut_6_mkg_clip_loose_fit.stl](t_slot_profile_util-t_slot_20x20_nut_6_mkg_clip_loose_fit.stl)
 - [t_slot_profile_util-t_slot_20x20_nut_6_mkg_clip_tight_fit.stl](t_slot_profile_util-t_slot_20x20_nut_6_mkg_clip_tight_fit.stl)
