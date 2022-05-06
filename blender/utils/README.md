@@ -14,6 +14,8 @@ A collection of assorted utilities for the MakerGrid:
 
 ![Fan Holders](../../res/fan_holders.png)
 
+![Cable Guide Type C](../../res/cable_guide_type_c.png)
+
 # Aluminum Extrusion Utils
 
 20x20 Aluminum Extrusion T-Slot clips (attention, these are under GPLv3):
