@@ -6,7 +6,7 @@ A collection of assorted utilities for the MakerGrid:
 
 ![MakerGrid Build Cubes Angles and Base Wall Joints](../../res/build_cubes_side_and_angle.png)
 
-![MakerGrid Build Cubes One-/Two-Side Connection](../../build_cubes_one_two_con.png)
+![MakerGrid Build Cubes One-/Two-Side Connection](../../res/build_cubes_one_two_con.png)
 
 ![Cable Guide Type A](../../res/cable_guide_type_a.png)
 
