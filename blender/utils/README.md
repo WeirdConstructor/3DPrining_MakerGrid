@@ -18,7 +18,7 @@ A collection of assorted utilities for the MakerGrid:
 
 ![Cable Guide Type C](../../res/cable_guide_type_c.png)
 
-![Screwable Clip Holders](../../res/screwsables.png)
+![Screwable Clip Holders](../../res/screwables.png)
 
 # Aluminum Extrusion Utils
 
