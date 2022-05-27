@@ -37,7 +37,7 @@ under CC-BY-SA like the rest of the MakerGrid system!
 See also the STL files:
 
 - [PrintABlok MakerGrid Clip Connector](mak_a_blok-MakABlok_clip_connector.stl)
-- [PrintABlok MakerGrid hybrid cube with offset for combining 16mm and 20mm](mak_a_blok-MakABlok_hybrid_offset.stl)
+- [PrintABlok MakerGrid hybrid cube with offset for combining 16mm and 20mm](mak_a_blok-MakABlok_offset.stl)
 - [PrintABlok block with MakerGrid hole](mak_a_blok-MakABlok_blok.stl)
 - [PrintABlok block with MakerGrid wide base hole](mak_a_blok-MakABlok_hybrid.stl)
 - [MakerGrid cube with PrintABlok holes](mak_a_blok-MakABlok_cube.stl)
