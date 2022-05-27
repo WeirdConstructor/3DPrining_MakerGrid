@@ -29,11 +29,15 @@ directly towards case design.
 In the `mak_a_blok.blend` file you find the following adapter files
 that make it possible to combine parts of the MakerGrid and PrintABlok system.
 
+**Attention:** These PrintABlok parts are under the CC-BY-NC 4.0 license and not
+under CC-BY-SA like the rest of the MakerGrid system!
+
 ![MakABlok](../res/makablok_adapters.png)
 
 See also the STL files:
 
 - [PrintABlok MakerGrid Clip Connector](mak_a_blok-MakABlok_clip_connector.stl)
+- [PrintABlok MakerGrid hybrid cube with offset for combining 16mm and 20mm](mak_a_blok-MakABlok_hybrid_offset.stl)
 - [PrintABlok block with MakerGrid hole](mak_a_blok-MakABlok_blok.stl)
 - [PrintABlok block with MakerGrid wide base hole](mak_a_blok-MakABlok_hybrid.stl)
 - [MakerGrid cube with PrintABlok holes](mak_a_blok-MakABlok_cube.stl)
