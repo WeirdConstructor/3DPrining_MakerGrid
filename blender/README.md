@@ -9,6 +9,8 @@ STL files that you can find here. Here is an STL index:
 
 ![MakerGrid Overview](../res/maker_grid_overview.png)
 
+![MakerGrid Grid Light](../res/clip_grid_light_2cm.png)
+
 ## Utilities
 
 You can find more stuff in the subdirectories:
